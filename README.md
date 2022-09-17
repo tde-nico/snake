@@ -1,4 +1,15 @@
 # snake
 
-A simple snake game in python
+<!--
+#groups
+Games
 
+#languages
+Python
+
+#frames and libs
+Pygame
+
+-->
+
+A simple snake game in python
